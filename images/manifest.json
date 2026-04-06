@@ -1,85 +1,85 @@
 {
-  "generatedAt": "2026-04-06T16:55:55.561Z",
+  "generatedAt": "2026-04-06T17:33:47.622Z",
   "categories": {
     "banquete": {
       "profesional": [
-        "/images/profesional/banquete/alexander-mass-qa0gEVBTyRY-unsplash_result.jpg",
-        "/images/profesional/banquete/hoi-an-and-da-nang-photographer-V1RvRXXgdhA-unsplash_result.jpg",
-        "/images/profesional/banquete/hoi-an-and-da-nang-photographer-vW0jNfjlaLY-unsplash_result.jpg",
-        "/images/profesional/banquete/hoi-an-and-da-nang-photographer-y3bhN9Zhn00-unsplash_result.jpg"
+        "images/profesional/banquete/alexander-mass-qa0gEVBTyRY-unsplash_result.jpg",
+        "images/profesional/banquete/hoi-an-and-da-nang-photographer-V1RvRXXgdhA-unsplash_result.jpg",
+        "images/profesional/banquete/hoi-an-and-da-nang-photographer-vW0jNfjlaLY-unsplash_result.jpg",
+        "images/profesional/banquete/hoi-an-and-da-nang-photographer-y3bhN9Zhn00-unsplash_result.jpg"
       ],
       "amateur": [
-        "/images/amateur/banquete/sadiq-abdulmalik-gDpHSHGHjm0-unsplash_result.jpg"
+        "images/amateur/banquete/sadiq-abdulmalik-gDpHSHGHjm0-unsplash_result.jpg"
       ]
     },
     "ceremonia": {
       "profesional": [
-        "/images/profesional/ceremonia/fotografo-samuel-cruz-Fpgq9v5x7gU-unsplash_result.jpg",
-        "/images/profesional/ceremonia/leonardo-miranda-dvF6s1H1x68-unsplash_result.jpg",
-        "/images/profesional/ceremonia/leonardo-miranda-riHGdvluDk8-unsplash_result.jpg",
-        "/images/profesional/ceremonia/redd-francisco-y4bE8ST_CTg-unsplash_result.jpg",
-        "/images/profesional/ceremonia/samantha-gades-ermkZ9xvhdU-unsplash_result.jpg",
-        "/images/profesional/ceremonia/victoria-priessnitz-JFAPl7brL6U-unsplash_result.jpg"
+        "images/profesional/ceremonia/fotografo-samuel-cruz-Fpgq9v5x7gU-unsplash_result.jpg",
+        "images/profesional/ceremonia/leonardo-miranda-dvF6s1H1x68-unsplash_result.jpg",
+        "images/profesional/ceremonia/leonardo-miranda-riHGdvluDk8-unsplash_result.jpg",
+        "images/profesional/ceremonia/redd-francisco-y4bE8ST_CTg-unsplash_result.jpg",
+        "images/profesional/ceremonia/samantha-gades-ermkZ9xvhdU-unsplash_result.jpg",
+        "images/profesional/ceremonia/victoria-priessnitz-JFAPl7brL6U-unsplash_result.jpg"
       ],
       "amateur": [
-        "/images/amateur/ceremonia/fotografo-samuel-cruz-OIhb5eVVZcE-unsplash_result.jpg",
-        "/images/amateur/ceremonia/getulio-moraes-HFnzbEABYsA-unsplash_result.jpg"
+        "images/amateur/ceremonia/fotografo-samuel-cruz-OIhb5eVVZcE-unsplash_result.jpg",
+        "images/amateur/ceremonia/getulio-moraes-HFnzbEABYsA-unsplash_result.jpg"
       ]
     },
     "coctel": {
       "profesional": [
-        "/images/profesional/coctel/brittney-weng-KJsiKNj-nPM-unsplash_result.jpg",
-        "/images/profesional/coctel/filip-rankovic-grobgaard-V0tDA8q6n5Y-unsplash_result.jpg",
-        "/images/profesional/coctel/hoi-an-and-da-nang-photographer-aSM_gQtTqbE-unsplash_result.jpg",
-        "/images/profesional/coctel/ieva-vi-nHx3E-LTgNU-unsplash_result.jpg"
+        "images/profesional/coctel/brittney-weng-KJsiKNj-nPM-unsplash_result.jpg",
+        "images/profesional/coctel/filip-rankovic-grobgaard-V0tDA8q6n5Y-unsplash_result.jpg",
+        "images/profesional/coctel/hoi-an-and-da-nang-photographer-aSM_gQtTqbE-unsplash_result.jpg",
+        "images/profesional/coctel/ieva-vi-nHx3E-LTgNU-unsplash_result.jpg"
       ],
       "amateur": [
-        "/images/amateur/coctel/negar-nikkhah-08d-qowlDMo-unsplash_result.jpg",
-        "/images/amateur/coctel/tamara-govedarovic-B-9tkBwV3Hk-unsplash_result.jpg"
+        "images/amateur/coctel/negar-nikkhah-08d-qowlDMo-unsplash_result.jpg",
+        "images/amateur/coctel/tamara-govedarovic-B-9tkBwV3Hk-unsplash_result.jpg"
       ]
     },
     "fiesta": {
       "profesional": [
-        "/images/profesional/fiesta/arion-reyvonputra-_8RGPzJimWw-unsplash_result.jpg",
-        "/images/profesional/fiesta/derrick-treadwell-1h-64bCdVUI-unsplash_result.jpg",
-        "/images/profesional/fiesta/hoi-an-and-da-nang-photographer-KqMj1bxwkSA-unsplash_result.jpg",
-        "/images/profesional/fiesta/kari-bjorn-photography-G3O5fc5_r4s-unsplash_result.jpg",
-        "/images/profesional/fiesta/pedro-pulido-LdpSdMmy29E-unsplash_result.jpg"
+        "images/profesional/fiesta/arion-reyvonputra-_8RGPzJimWw-unsplash_result.jpg",
+        "images/profesional/fiesta/derrick-treadwell-1h-64bCdVUI-unsplash_result.jpg",
+        "images/profesional/fiesta/hoi-an-and-da-nang-photographer-KqMj1bxwkSA-unsplash_result.jpg",
+        "images/profesional/fiesta/kari-bjorn-photography-G3O5fc5_r4s-unsplash_result.jpg",
+        "images/profesional/fiesta/pedro-pulido-LdpSdMmy29E-unsplash_result.jpg"
       ],
       "amateur": [
-        "/images/amateur/fiesta/ben-atkins-_F_8O7yNeM4-unsplash_result.jpg",
-        "/images/amateur/fiesta/brooke-balentine-kDYxJtTtOWg-unsplash_result.jpg"
+        "images/amateur/fiesta/ben-atkins-_F_8O7yNeM4-unsplash_result.jpg",
+        "images/amateur/fiesta/brooke-balentine-kDYxJtTtOWg-unsplash_result.jpg"
       ]
     },
     "grupos": {
       "profesional": [
-        "/images/profesional/grupos/hoi-an-and-da-nang-photographer-_LLL8-VJv2E-unsplash_result.jpg",
-        "/images/profesional/grupos/hoi-an-and-da-nang-photographer-AUGxNrY4qaI-unsplash_result.jpg",
-        "/images/profesional/grupos/hoi-an-and-da-nang-photographer-GUM2nIx6_9w-unsplash_result.jpg",
-        "/images/profesional/grupos/hoi-an-and-da-nang-photographer-Rv6nX5h99h0-unsplash_result.jpg",
-        "/images/profesional/grupos/hoi-an-and-da-nang-photographer-Y4VLP9I8f94-unsplash_result.jpg",
-        "/images/profesional/grupos/shoham-avisrur-yWBT23tP-s4-unsplash_result.jpg"
+        "images/profesional/grupos/hoi-an-and-da-nang-photographer-_LLL8-VJv2E-unsplash_result.jpg",
+        "images/profesional/grupos/hoi-an-and-da-nang-photographer-AUGxNrY4qaI-unsplash_result.jpg",
+        "images/profesional/grupos/hoi-an-and-da-nang-photographer-GUM2nIx6_9w-unsplash_result.jpg",
+        "images/profesional/grupos/hoi-an-and-da-nang-photographer-Rv6nX5h99h0-unsplash_result.jpg",
+        "images/profesional/grupos/hoi-an-and-da-nang-photographer-Y4VLP9I8f94-unsplash_result.jpg",
+        "images/profesional/grupos/shoham-avisrur-yWBT23tP-s4-unsplash_result.jpg"
       ],
       "amateur": []
     },
     "preparativos": {
       "profesional": [
-        "/images/profesional/preparativos/sandy-millar-8vaQKYnawHw-unsplash_result.jpg",
-        "/images/profesional/preparativos/shardayyy-photography-fJzmPe-a0eU-unsplash_result.jpg",
-        "/images/profesional/preparativos/thomas-beaman-3NLJXvQfdc0-unsplash_result.jpg",
-        "/images/profesional/preparativos/vidit-goswami-Qkm_DzPYiD4-unsplash_result.jpg",
-        "/images/profesional/preparativos/yusuf-muttaqin--mOppOkibG4-unsplash_result.jpg"
+        "images/profesional/preparativos/sandy-millar-8vaQKYnawHw-unsplash_result.jpg",
+        "images/profesional/preparativos/shardayyy-photography-fJzmPe-a0eU-unsplash_result.jpg",
+        "images/profesional/preparativos/thomas-beaman-3NLJXvQfdc0-unsplash_result.jpg",
+        "images/profesional/preparativos/vidit-goswami-Qkm_DzPYiD4-unsplash_result.jpg",
+        "images/profesional/preparativos/yusuf-muttaqin--mOppOkibG4-unsplash_result.jpg"
       ],
       "amateur": []
     },
     "retratos": {
       "profesional": [
-        "/images/profesional/retratos/fotografo-samuel-cruz-510Cm9UjUQU-unsplash_result.jpg",
-        "/images/profesional/retratos/hoi-an-and-da-nang-photographer-8YZ1OGQkS_I-unsplash_result.jpg",
-        "/images/profesional/retratos/jakob-owens-LtxutGEKy08-unsplash_result.jpg",
-        "/images/profesional/retratos/marius-muresan-x1mUAshxzpM-unsplash_result.jpg",
-        "/images/profesional/retratos/naeem-ad-rUVJTR4XGAk-unsplash_result.jpg",
-        "/images/profesional/retratos/oksana-zub-eKdnKZX1ZEA-unsplash_result.jpg"
+        "images/profesional/retratos/fotografo-samuel-cruz-510Cm9UjUQU-unsplash_result.jpg",
+        "images/profesional/retratos/hoi-an-and-da-nang-photographer-8YZ1OGQkS_I-unsplash_result.jpg",
+        "images/profesional/retratos/jakob-owens-LtxutGEKy08-unsplash_result.jpg",
+        "images/profesional/retratos/marius-muresan-x1mUAshxzpM-unsplash_result.jpg",
+        "images/profesional/retratos/naeem-ad-rUVJTR4XGAk-unsplash_result.jpg",
+        "images/profesional/retratos/oksana-zub-eKdnKZX1ZEA-unsplash_result.jpg"
       ],
       "amateur": []
     }
