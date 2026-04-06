@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Formulario para subir imágenes del evento." />
+    <title>Boda Pepito y Pepita | Subir fotos</title>
+    <script type="module" crossorigin src="./assets/chunk-D4Ll_HxI.js"></script>
+    <script type="module" crossorigin src="./assets/main-Bcjzb0AX.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/main-Brp5BBaQ.css">
+  </head>
+  <body id="top">
+    <header>
+      <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container">
+          <a href="index.html" class="navbar-brand d-flex align-items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
+            <strong>Boda Pepito y Pepita</strong>
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#formNav" aria-controls="formNav" aria-expanded="false" aria-label="Alternar navegación">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </div>
+      <div class="collapse bg-dark" id="formNav">
+        <div class="container py-4">
+          <div class="row g-4">
+            <div class="col-lg-4">
+              <h4 class="text-white">Navegación</h4>
+              <ul class="list-unstyled mb-0">
+                <li><a href="index.html" class="text-white">Portada</a></li>
+                <li><a href="index.html#galeria" class="text-white">Galería de categorías</a></li>
+                <li><a href="#formulario" class="text-white">Formulario de subida</a></li>
+              </ul>
+            </div>
+            <div class="col-lg-8">
+              <h4 class="text-white">Galería</h4>
+              <div class="dropdown">
+                <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Elegir categoría
+                </button>
+                <ul class="dropdown-menu dropdown-menu-dark">
+                  <li><a class="dropdown-item" href="galeria.html?categoria=ceremonia">Ceremonia</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=grupos">Grupos</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=retratos">Retratos</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=coctel">Coctel</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=banquete">Banquete</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=fiesta">Fiesta</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=preparativos">Preparativos</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-section" id="formulario">
+      <section class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-lg-9 col-xl-8">
+            <div class="form-card rounded-4 p-4 p-lg-5">
+              <span class="eyebrow text-accent">Formulario de subida</span>
+              <h1 class="display-6 fw-light mt-3 mb-3">Solicita subir imágenes del evento</h1>
+              <p class="text-body-secondary mb-4">
+                Completa tus datos y comparte las fotos que quieras añadir al álbum.
+              </p>
+
+              <form action="resultado.html" method="get" class="row g-3">
+                <div class="col-md-6">
+                  <label for="nombre" class="form-label">Nombre y apellidos</label>
+                  <input type="text" class="form-control form-control-lg" id="nombre" name="nombre" placeholder="Tu nombre" required />
+                </div>
+                <div class="col-md-6">
+                  <label for="correo" class="form-label">Correo electrónico</label>
+                  <input type="email" class="form-control form-control-lg" id="correo" name="correo" placeholder="nombre@correo.com" required />
+                </div>
+                <div class="col-12">
+                  <label for="fotos" class="form-label">Selecciona tus imágenes</label>
+                  <input class="form-control form-control-lg" type="file" id="fotos" name="fotos" accept="image/*" multiple required />
+                </div>
+                <div class="col-12">
+                  <label for="comentarios" class="form-label">Comentarios</label>
+                  <textarea class="form-control" id="comentarios" name="comentarios" rows="4" placeholder="Cuéntanos algo sobre tus fotos"></textarea>
+                </div>
+                <div class="col-12 d-flex flex-column flex-sm-row gap-3 align-items-sm-center justify-content-between mt-2">
+                  <small class="text-body-secondary">Al enviar el formulario continuarás con el proceso de confirmación.</small>
+                  <button type="submit" class="btn btn-primary btn-lg px-4">Enviar imágenes</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="text-body-secondary py-5 album-footer">
+      <div class="container">
+        <p class="mb-1">Formulario de subida de fotos del evento.</p>
+      </div>
+    </footer>
+
+  </body>
+</html>

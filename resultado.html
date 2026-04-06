@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Respuesta fija del formulario de subida de imágenes." />
+    <title>Boda Pepito y Pepita | Confirmación</title>
+    <script type="module" crossorigin src="./assets/chunk-D4Ll_HxI.js"></script>
+    <script type="module" crossorigin src="./assets/main-Bcjzb0AX.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/main-Brp5BBaQ.css">
+  </head>
+  <body id="top">
+    <header>
+      <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container">
+          <a href="index.html" class="navbar-brand d-flex align-items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
+            <strong>Boda Pepito y Pepita</strong>
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#resultNav" aria-controls="resultNav" aria-expanded="false" aria-label="Alternar navegación">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </div>
+      <div class="collapse bg-dark" id="resultNav">
+        <div class="container py-4">
+          <div class="row g-4">
+            <div class="col-lg-4">
+              <h4 class="text-white">Navegación</h4>
+              <ul class="list-unstyled mb-0">
+                <li><a href="index.html" class="text-white">Portada</a></li>
+                <li><a href="formulario.html" class="text-white">Subir fotos</a></li>
+                <li><a href="index.html#galeria" class="text-white">Galería de categorías</a></li>
+                <li><a href="#respuesta" class="text-white">Estado</a></li>
+              </ul>
+            </div>
+            <div class="col-lg-8">
+              <h4 class="text-white">Galería</h4>
+              <div class="dropdown">
+                <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Elegir categoría
+                </button>
+                <ul class="dropdown-menu dropdown-menu-dark">
+                  <li><a class="dropdown-item" href="galeria.html?categoria=ceremonia">Ceremonia</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=grupos">Grupos</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=retratos">Retratos</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=coctel">Coctel</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=banquete">Banquete</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=fiesta">Fiesta</a></li>
+                  <li><a class="dropdown-item" href="galeria.html?categoria=preparativos">Preparativos</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-section" id="respuesta">
+      <section class="container py-5">
+        <div class="row justify-content-center">
+          <div class="col-lg-9 col-xl-8">
+            <div class="result-card rounded-4 p-4 p-lg-5 text-center">
+              <span class="eyebrow text-accent">Gracias por participar</span>
+              <h1 class="display-6 fw-light mt-3 mb-3">Tus imágenes estarán disponibles cuando se validen.</h1>
+              <p class="text-body-secondary mb-4">
+                Hemos recibido tu solicitud y pronto estará lista para revisión.
+              </p>
+
+              <div class="status-box p-4 mb-4 text-start">
+                <h2 class="h5 mb-3">Resumen del estado</h2>
+                <ul class="list-unstyled mb-0 d-grid gap-3">
+                  <li class="d-flex gap-3 align-items-start">
+                    <span class="status-badge">1</span>
+                    <span>La solicitud ha sido recibida correctamente.</span>
+                  </li>
+                  <li class="d-flex gap-3 align-items-start">
+                    <span class="status-badge">2</span>
+                    <span>Las fotos pasarán por validación antes de publicarse en la galería.</span>
+                  </li>
+                  <li class="d-flex gap-3 align-items-start">
+                    <span class="status-badge">3</span>
+                    <span>Cuando estén aprobadas, aparecerán en la portada del evento.</span>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center">
+                <a class="btn btn-primary btn-lg px-4" href="index.html">Volver a la galería</a>
+                <a class="btn btn-outline-secondary btn-lg px-4" href="formulario.html">Enviar más fotos</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="text-body-secondary py-5 album-footer">
+      <div class="container">
+        <p class="mb-1">Respuesta fija del formulario.</p>
+        <p class="mb-0">Pensada para completar la práctica sin servidor.</p>
+      </div>
+    </footer>
+
+  </body>
+</html>
